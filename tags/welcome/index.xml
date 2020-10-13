@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Pi Society</title>
+    <link>/tags/welcome/</link>
+    <description>Recent content in Welcome on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome, freshers</title>
+      <link>/news/2020/welcome-freshers-2020/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/welcome-freshers-2020/</guid>
+      <description>Hi there, freshers of 2020! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Society projects - the university has greenlit us building them a magic mirror for public display CTF(Catch The Flag), a hacking Competitions where your objective is to find clues and complete the challenge Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop Gameathons - play video games Weekly meetings and socials We mainly use Discord but we are also planning on using Youtube and Twitch so make sure you are following us !</description>
+    </item>
+    
+    <item>
+      <title>Welcome, 2019 Freshers</title>
+      <link>/news/2019/welcome-freshers-2019/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/welcome-freshers-2019/</guid>
+      <description>Hi there, freshers of 2019! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to Bletchley Park - the birthplace of British computer science A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Talks from Rik Ferguson, Richard Hopkins, and Holly Grace Williams Society projects - the university has greenlit us building them a magic mirror for public display An AI hackathon in partnership with AI Gaming Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop (there&amp;rsquo;ll be free pizza, too) Gameathons - play video games to win prizes Weekly meetings and socials  We also get up to fun nerdy shenanigans like reversing bluetooth-powered kids toys, developing Telegram bots when we&amp;rsquo;re at the pub, or building terrible robots out of microcontrollers, hot glue and cardboard.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, 2018 Freshers</title>
+      <link>/news/2018/welcome-freshers-2018/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2018/welcome-freshers-2018/</guid>
+      <description>Welcome to all the new freshers! I&amp;rsquo;d like to introduce Pi Society - shortened to PiSoc most of the time.
+We&amp;rsquo;re an society focused on computer science (occasionally maths and electrical engineering, too) - that said, anyone from any course can join.
+We run events and socials - trips, gameathons (see below), and extracurricular things like lectures (hosted by experts from the industry), install parties and hackathons. We also do fun nerdy stuff from time to time, like reverse engineering bluetooth enabled kids toys and repurposing them, or hacking together Telegram bots when we&amp;rsquo;re at the pub.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, Freshers of 2017</title>
+      <link>/news/2017/welcome-freshers-2017/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/welcome-freshers-2017/</guid>
+      <description>Welcome to all the incoming freshers! You&amp;rsquo;ve probably heard about the union&amp;rsquo;s societies by now, and I&amp;rsquo;d like to introduce Pi Society - shortened to PiSoc most of the time.
+We&amp;rsquo;re an academic society focused on computer science (occasionally maths and electrical engineering, too) - that said, anyone from any course can join.
+We run regular events and socials - trips (to Bletchley Park or the Computer History Museum in Cambridge, for example), gameathons (see below), and specialist things like ethical hacking lectures (hosted by experts from the Britsh Computer Society).</description>
+    </item>
+    
+  </channel>
+</rss>

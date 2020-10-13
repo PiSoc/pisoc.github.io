@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trello on Pi Society</title>
+    <link>/tags/trello/</link>
+    <description>Recent content in Trello on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/trello/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PiSoc Presents: Project Management</title>
+      <link>/news/2019/project-management/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/project-management/</guid>
+      <description>Let&amp;rsquo;s get organised, PiSoc! We&amp;rsquo;ll soon be running our next PiSoc Presents - this time we&amp;rsquo;ll be teaching you about project management and organisation.
+Our talk will take place on Monday 11th November, starting at 18:45. We&amp;rsquo;ll be teaching you the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Git, Git repository hosts (Github/Gitlab), and Trello.
+If you don&amp;rsquo;t already use these tools and services, your projects will greatly benefit from them. They&amp;rsquo;re great for keeping your work organised - as well as displaying it online after the fact.</description>
+    </item>
+    
+  </channel>
+</rss>

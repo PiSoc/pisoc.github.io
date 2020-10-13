@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Pi Society</title>
+    <link>/tags/events/</link>
+    <description>Recent content in Events on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Speaker: Tom Mitchell</title>
+      <link>/events/2020/pisoc-presents-git/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2020/pisoc-presents-git/</guid>
+      <description> Event due near the end of October - watch this space! </description>
+    </item>
+    
+    <item>
+      <title>External Speaker: Thomas Mangin</title>
+      <link>/news/2019/thomas-mangin/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/thomas-mangin/</guid>
+      <description>Ever wondered how the internet works? What sort of technology goes into connecting the world?
+Where did it all come from, and who invented it?
+And just how exactly do all of those cat pictures end up online?
+PiSoc is very proud to introduce our first external speaker of the year - Thomas Mangin. Thomas is the Operational and Technical Director at Exa Networks, and has been since he co-founded the company in 2003.</description>
+    </item>
+    
+    <item>
+      <title>PiSoc Presents: Project Management</title>
+      <link>/news/2019/project-management/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/project-management/</guid>
+      <description>Let&amp;rsquo;s get organised, PiSoc! We&amp;rsquo;ll soon be running our next PiSoc Presents - this time we&amp;rsquo;ll be teaching you about project management and organisation.
+Our talk will take place on Monday 11th November, starting at 18:45. We&amp;rsquo;ll be teaching you the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Git, Git repository hosts (Github/Gitlab), and Trello.
+If you don&amp;rsquo;t already use these tools and services, your projects will greatly benefit from them. They&amp;rsquo;re great for keeping your work organised - as well as displaying it online after the fact.</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 and Install Party 2019</title>
+      <link>/news/2019/linux-101-and-install-party/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-and-install-party/</guid>
+      <description>It&amp;rsquo;s penguin time, PiSoc! On 21/10/19 (at the time of writing, the coming Monday), we&amp;rsquo;ll be holding our first PiSoc presents lecture, as well as this semester&amp;rsquo;s Linux Install Party.
+PiSoc Presents: Linux 101 Are you interested in Linux, but don&amp;rsquo;t know where to start?
+Does the command line confuse you?
+Do you want to learn some things and eat free (as in free pizza) pizza?
+Starting from 18:15, we&amp;rsquo;ll be delivering a lecture on the fundamentals of Linux-based operating systems, how they work and how to use them.</description>
+    </item>
+    
+  </channel>
+</rss>

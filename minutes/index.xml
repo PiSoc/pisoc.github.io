@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minutes on Pi Society</title>
+    <link>/minutes/</link>
+    <description>Recent content in Minutes on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/minutes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2nd October Meeting</title>
+      <link>/minutes/2020/second-october-meeting/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/minutes/2020/second-october-meeting/</guid>
+      <description>Chair: Lucas I guess
+People Present: Everyone
+Apologies:
+ Bailey
+ We forgive you
+  Agenda Activities  Previous Meetings (Discuss things we had to do/ be done)
+ Discuss tom&amp;rsquo;s ideas for further events and help him
+ Magic mirror missing points
+ Society Meetings missing points
+ Gemma answered :O
+ Picon
+ update Website Plan (Lucas will do it)
+ Any Other Business
+  Previous Meetings Start to use the email function from the UBU Push discord up</description>
+    </item>
+    
+    <item>
+      <title>1st October Meeting</title>
+      <link>/minutes/2020/first-october-meeting/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/minutes/2020/first-october-meeting/</guid>
+      <description>Chair: Lucas
+People Present:
+ Tiago
+ Lucas
+ Garcia
+ Slav
+  Apologies:
+ Bailey
+ Chris
+ Stephen
+  Agenda for Exec meeting:  Previous Meeting
+ Future Meetings
+ Magic Mirror
+ Pisoc Presents (youtube?)
+ PiCon (in-depth analysis)
+ Check future events (virtual/physical)
+ Weekly Discord meetings
+ Any other Business
+  Previous meetings  Everything will be on Trello from now on.</description>
+    </item>
+    
+  </channel>
+</rss>

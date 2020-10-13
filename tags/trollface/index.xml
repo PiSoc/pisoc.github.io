@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trollface on Pi Society</title>
+    <link>/tags/trollface/</link>
+    <description>Recent content in Trollface on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/trollface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trip to The Centre for Computing History</title>
+      <link>/news/2017/trip-to-cambridge/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/trip-to-cambridge/</guid>
+      <description>Today, PiSoc visited The Centre for Computing History in Cambridge. Whilst we were there we got to try out many machines from computing history, from old Unix systems to retro game consoles. This was a great experience as it is rare to be able to get your hands on such old pieces of hardware and experience what they were like to use.
+Due to the interactive nature of the exhibits PiSoc definitely left its mark.</description>
+    </item>
+    
+  </channel>
+</rss>

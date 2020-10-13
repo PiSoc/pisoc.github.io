@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Pi Society</title>
+    <link>/tags/2019/</link>
+    <description>Recent content in 2019 on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Speaker: Thomas Mangin</title>
+      <link>/news/2019/thomas-mangin/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/thomas-mangin/</guid>
+      <description>Ever wondered how the internet works? What sort of technology goes into connecting the world?
+Where did it all come from, and who invented it?
+And just how exactly do all of those cat pictures end up online?
+PiSoc is very proud to introduce our first external speaker of the year - Thomas Mangin. Thomas is the Operational and Technical Director at Exa Networks, and has been since he co-founded the company in 2003.</description>
+    </item>
+    
+    <item>
+      <title>PiSoc Presents: Project Management</title>
+      <link>/news/2019/project-management/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/project-management/</guid>
+      <description>Let&amp;rsquo;s get organised, PiSoc! We&amp;rsquo;ll soon be running our next PiSoc Presents - this time we&amp;rsquo;ll be teaching you about project management and organisation.
+Our talk will take place on Monday 11th November, starting at 18:45. We&amp;rsquo;ll be teaching you the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Git, Git repository hosts (Github/Gitlab), and Trello.
+If you don&amp;rsquo;t already use these tools and services, your projects will greatly benefit from them. They&amp;rsquo;re great for keeping your work organised - as well as displaying it online after the fact.</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 Recap</title>
+      <link>/news/2019/linux-101-recap/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-recap/</guid>
+      <description>Penguin time was fun! Last week, we had a special PiSoc weekly meeting - our very first PiSoc Presents! Our Social Exec, Tom Mitchell, gave a lecture on &amp;ldquo;an introduction to Linux&amp;rdquo;. The talk covered what we mean by &amp;ldquo;Linux as a kernel&amp;rdquo; and &amp;ldquo;as an OS&amp;rdquo;, and the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Linux-based operating systems.
+Incase you missed it, you can view/download the slides here.
+We hope you all learned something and enjoyed the free pizza!</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 and Install Party 2019</title>
+      <link>/news/2019/linux-101-and-install-party/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-and-install-party/</guid>
+      <description>It&amp;rsquo;s penguin time, PiSoc! On 21/10/19 (at the time of writing, the coming Monday), we&amp;rsquo;ll be holding our first PiSoc presents lecture, as well as this semester&amp;rsquo;s Linux Install Party.
+PiSoc Presents: Linux 101 Are you interested in Linux, but don&amp;rsquo;t know where to start?
+Does the command line confuse you?
+Do you want to learn some things and eat free (as in free pizza) pizza?
+Starting from 18:15, we&amp;rsquo;ll be delivering a lecture on the fundamentals of Linux-based operating systems, how they work and how to use them.</description>
+    </item>
+    
+    <item>
+      <title>Freshers&#39; Week 2019 recap</title>
+      <link>/news/2019/freshers-recap/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/freshers-recap/</guid>
+      <description>It&amp;rsquo;s been a busy week. We&amp;rsquo;ve had a awful lot of fun running events for the past week. If you missed out (and we&amp;rsquo;re really sorry if you did!), here&amp;rsquo;s a brief recap of what went on.
+Tuesday: Computer Science Induction talks You may have seen our president, Chris Delee, give an &amp;ldquo;intro to PiSoc&amp;rdquo; talk at the induction day event. It covered who we are, what we do, and where you can find us if you want to get involved.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, 2019 Freshers</title>
+      <link>/news/2019/welcome-freshers-2019/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/welcome-freshers-2019/</guid>
+      <description>Hi there, freshers of 2019! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to Bletchley Park - the birthplace of British computer science A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Talks from Rik Ferguson, Richard Hopkins, and Holly Grace Williams Society projects - the university has greenlit us building them a magic mirror for public display An AI hackathon in partnership with AI Gaming Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop (there&amp;rsquo;ll be free pizza, too) Gameathons - play video games to win prizes Weekly meetings and socials  We also get up to fun nerdy shenanigans like reversing bluetooth-powered kids toys, developing Telegram bots when we&amp;rsquo;re at the pub, or building terrible robots out of microcontrollers, hot glue and cardboard.</description>
+    </item>
+    
+  </channel>
+</rss>

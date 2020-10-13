@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Pi Society</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The innards of pisoc.net</title>
+      <link>/projects/the-innards-of-pisoc-dot-net/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/the-innards-of-pisoc-dot-net/</guid>
+      <description>TL;DR Our flask app listens for webhooks triggered by pushes to the repository. When it recieves a POST request to the &amp;ldquo;webhook endpoint&amp;rdquo;, it pulls the latest versions of the repositories for the website (main and theme submodule) and uses Hugo to rebuild the static portion of the site.
+In some more detail Python and Flask Flask is a web development &amp;ldquo;microframework&amp;rdquo; written in Python. We&amp;rsquo;re using this as the &amp;ldquo;bridge&amp;rdquo; between the two functionalities we need for this project: serving web content, and executing commands on the host machine.</description>
+    </item>
+    
+  </channel>
+</rss>

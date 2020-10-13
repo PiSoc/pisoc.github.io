@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Pi Society</title>
+    <link>/news/</link>
+    <description>Recent content in News on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome, freshers</title>
+      <link>/news/2020/welcome-freshers-2020/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/welcome-freshers-2020/</guid>
+      <description>Hi there, freshers of 2020! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Society projects - the university has greenlit us building them a magic mirror for public display CTF(Catch The Flag), a hacking Competitions where your objective is to find clues and complete the challenge Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop Gameathons - play video games Weekly meetings and socials We mainly use Discord but we are also planning on using Youtube and Twitch so make sure you are following us !</description>
+    </item>
+    
+    <item>
+      <title>External Speaker: Thomas Mangin</title>
+      <link>/news/2019/thomas-mangin/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/thomas-mangin/</guid>
+      <description>Ever wondered how the internet works? What sort of technology goes into connecting the world?
+Where did it all come from, and who invented it?
+And just how exactly do all of those cat pictures end up online?
+PiSoc is very proud to introduce our first external speaker of the year - Thomas Mangin. Thomas is the Operational and Technical Director at Exa Networks, and has been since he co-founded the company in 2003.</description>
+    </item>
+    
+    <item>
+      <title>PiSoc Presents: Project Management</title>
+      <link>/news/2019/project-management/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/project-management/</guid>
+      <description>Let&amp;rsquo;s get organised, PiSoc! We&amp;rsquo;ll soon be running our next PiSoc Presents - this time we&amp;rsquo;ll be teaching you about project management and organisation.
+Our talk will take place on Monday 11th November, starting at 18:45. We&amp;rsquo;ll be teaching you the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Git, Git repository hosts (Github/Gitlab), and Trello.
+If you don&amp;rsquo;t already use these tools and services, your projects will greatly benefit from them. They&amp;rsquo;re great for keeping your work organised - as well as displaying it online after the fact.</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 Recap</title>
+      <link>/news/2019/linux-101-recap/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-recap/</guid>
+      <description>Penguin time was fun! Last week, we had a special PiSoc weekly meeting - our very first PiSoc Presents! Our Social Exec, Tom Mitchell, gave a lecture on &amp;ldquo;an introduction to Linux&amp;rdquo;. The talk covered what we mean by &amp;ldquo;Linux as a kernel&amp;rdquo; and &amp;ldquo;as an OS&amp;rdquo;, and the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Linux-based operating systems.
+Incase you missed it, you can view/download the slides here.
+We hope you all learned something and enjoyed the free pizza!</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 and Install Party 2019</title>
+      <link>/news/2019/linux-101-and-install-party/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-and-install-party/</guid>
+      <description>It&amp;rsquo;s penguin time, PiSoc! On 21/10/19 (at the time of writing, the coming Monday), we&amp;rsquo;ll be holding our first PiSoc presents lecture, as well as this semester&amp;rsquo;s Linux Install Party.
+PiSoc Presents: Linux 101 Are you interested in Linux, but don&amp;rsquo;t know where to start?
+Does the command line confuse you?
+Do you want to learn some things and eat free (as in free pizza) pizza?
+Starting from 18:15, we&amp;rsquo;ll be delivering a lecture on the fundamentals of Linux-based operating systems, how they work and how to use them.</description>
+    </item>
+    
+    <item>
+      <title>Freshers&#39; Week 2019 recap</title>
+      <link>/news/2019/freshers-recap/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/freshers-recap/</guid>
+      <description>It&amp;rsquo;s been a busy week. We&amp;rsquo;ve had a awful lot of fun running events for the past week. If you missed out (and we&amp;rsquo;re really sorry if you did!), here&amp;rsquo;s a brief recap of what went on.
+Tuesday: Computer Science Induction talks You may have seen our president, Chris Delee, give an &amp;ldquo;intro to PiSoc&amp;rdquo; talk at the induction day event. It covered who we are, what we do, and where you can find us if you want to get involved.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, 2019 Freshers</title>
+      <link>/news/2019/welcome-freshers-2019/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/welcome-freshers-2019/</guid>
+      <description>Hi there, freshers of 2019! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to Bletchley Park - the birthplace of British computer science A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Talks from Rik Ferguson, Richard Hopkins, and Holly Grace Williams Society projects - the university has greenlit us building them a magic mirror for public display An AI hackathon in partnership with AI Gaming Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop (there&amp;rsquo;ll be free pizza, too) Gameathons - play video games to win prizes Weekly meetings and socials  We also get up to fun nerdy shenanigans like reversing bluetooth-powered kids toys, developing Telegram bots when we&amp;rsquo;re at the pub, or building terrible robots out of microcontrollers, hot glue and cardboard.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, 2018 Freshers</title>
+      <link>/news/2018/welcome-freshers-2018/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2018/welcome-freshers-2018/</guid>
+      <description>Welcome to all the new freshers! I&amp;rsquo;d like to introduce Pi Society - shortened to PiSoc most of the time.
+We&amp;rsquo;re an society focused on computer science (occasionally maths and electrical engineering, too) - that said, anyone from any course can join.
+We run events and socials - trips, gameathons (see below), and extracurricular things like lectures (hosted by experts from the industry), install parties and hackathons. We also do fun nerdy stuff from time to time, like reverse engineering bluetooth enabled kids toys and repurposing them, or hacking together Telegram bots when we&amp;rsquo;re at the pub.</description>
+    </item>
+    
+    <item>
+      <title>Linux install party announcement</title>
+      <link>/news/2017/first-linux-install-party/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-linux-install-party/</guid>
+      <description>PiSoc has yet another event coming up! We&amp;rsquo;re happy to announce that we&amp;rsquo;ll be holding a Linux install party on the 16th of October! We&amp;rsquo;ll be in Horton D1.24 between 18:30 and 21:00.
+Installing Linux on your personal computer is a great way to get your feet wet with Linux usage, which is a really useful skill to have in the IT industry (something to write on a CV!). If you&amp;rsquo;re taking a CS related course, you&amp;rsquo;ve probably used it in the labs by now, and have seen some of the power of Linux.</description>
+    </item>
+    
+    <item>
+      <title>Welcome, Freshers of 2017</title>
+      <link>/news/2017/welcome-freshers-2017/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/welcome-freshers-2017/</guid>
+      <description>Welcome to all the incoming freshers! You&amp;rsquo;ve probably heard about the union&amp;rsquo;s societies by now, and I&amp;rsquo;d like to introduce Pi Society - shortened to PiSoc most of the time.
+We&amp;rsquo;re an academic society focused on computer science (occasionally maths and electrical engineering, too) - that said, anyone from any course can join.
+We run regular events and socials - trips (to Bletchley Park or the Computer History Museum in Cambridge, for example), gameathons (see below), and specialist things like ethical hacking lectures (hosted by experts from the Britsh Computer Society).</description>
+    </item>
+    
+    <item>
+      <title>Election Results 2017</title>
+      <link>/news/2017/election-results/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/election-results/</guid>
+      <description>Elections for exec have finished! Here is the lineup for the exec team of 2017 / 18:
+ President - Tom Mitchell Vice President - Ioannis Profetis Treasurer - Paul Rezabek Social Exec - Luke Morris Social Exec - Tom Green Media Exec - Nathan Towler  The &amp;ldquo;contact us&amp;rdquo; page will be updated over the summer after handover.</description>
+    </item>
+    
+    <item>
+      <title>BCS Pentesting bootcamp</title>
+      <link>/news/2019/pentesting-announcement/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/pentesting-announcement/</guid>
+      <description>PiSoc has yet another event coming up! This time, it&amp;rsquo;s a penetration testing bootcamp. Here you can learn some hacking skills (for ETHICAL USE ONLY). It&amp;rsquo;s taking place on the 25th of March (25/03/17), between 9am and about 6pm. It&amp;rsquo;s an all day affair, so you know it&amp;rsquo;s serious business. We&amp;rsquo;ll be using the CS deparment&amp;rsquo;s swanky new pentesting labs, too! No background in cyber security is required, and it&amp;rsquo;s free to all PiSoc members.</description>
+    </item>
+    
+    <item>
+      <title>Linux install party announcement</title>
+      <link>/news/2017/march-linux-install-party/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/march-linux-install-party/</guid>
+      <description>I am pleased to announce that PiSoc will be hosting a Linux install party on the 13th March 2017. During this event we can help you install Linux on your machine. We will also be giving a presentation about Linux where we will be talking about the different Linux distributions as well as how you can customise your machine to your liking. We will be providing snacks and drinks at this event and will be a great chance to relax with your fellow students.</description>
+    </item>
+    
+    <item>
+      <title>Gameathon update</title>
+      <link>/news/2017/first-gameathon-update/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-gameathon-update/</guid>
+      <description>An upate on the gameathon - we will indeed be having drinks and snacks for free at the event.
+We should (all things going to plan) also have two Raspberry Pis to give away as prizes. One will go to the winner of a free-for-all at the begining of the gameathon (so get there on time to participate!), and the other will go to the winner of a tournament we will run over the course of the event.</description>
+    </item>
+    
+    <item>
+      <title>Gameathon announcement</title>
+      <link>/news/2017/first-gameathon-anounce/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-gameathon-anounce/</guid>
+      <description>I&amp;rsquo;m happy to announce that PiSoc is holding another gameathon on the 8th of March. It&amp;rsquo;ll be between 2 and about 6:30, in D1.24 (the postgrad research lab). We&amp;rsquo;ll be playing Xonotic, a FOSS Quake 3 Arena/Unreal Tournament clone. If you&amp;rsquo;re intested in fast, twitchy FPS action, come along to our gameathon!
+Food and drink may or may not be provided, we&amp;rsquo;re working on that :P</description>
+    </item>
+    
+    <item>
+      <title>Trip to The Centre for Computing History</title>
+      <link>/news/2017/trip-to-cambridge/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/trip-to-cambridge/</guid>
+      <description>Today, PiSoc visited The Centre for Computing History in Cambridge. Whilst we were there we got to try out many machines from computing history, from old Unix systems to retro game consoles. This was a great experience as it is rare to be able to get your hands on such old pieces of hardware and experience what they were like to use.
+Due to the interactive nature of the exhibits PiSoc definitely left its mark.</description>
+    </item>
+    
+  </channel>
+</rss>

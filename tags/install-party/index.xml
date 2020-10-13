@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Install Party on Pi Society</title>
+    <link>/tags/install-party/</link>
+    <description>Recent content in Install Party on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/install-party/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux 101 Recap</title>
+      <link>/news/2019/linux-101-recap/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-recap/</guid>
+      <description>Penguin time was fun! Last week, we had a special PiSoc weekly meeting - our very first PiSoc Presents! Our Social Exec, Tom Mitchell, gave a lecture on &amp;ldquo;an introduction to Linux&amp;rdquo;. The talk covered what we mean by &amp;ldquo;Linux as a kernel&amp;rdquo; and &amp;ldquo;as an OS&amp;rdquo;, and the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Linux-based operating systems.
+Incase you missed it, you can view/download the slides here.
+We hope you all learned something and enjoyed the free pizza!</description>
+    </item>
+    
+    <item>
+      <title>Linux 101 and Install Party 2019</title>
+      <link>/news/2019/linux-101-and-install-party/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-and-install-party/</guid>
+      <description>It&amp;rsquo;s penguin time, PiSoc! On 21/10/19 (at the time of writing, the coming Monday), we&amp;rsquo;ll be holding our first PiSoc presents lecture, as well as this semester&amp;rsquo;s Linux Install Party.
+PiSoc Presents: Linux 101 Are you interested in Linux, but don&amp;rsquo;t know where to start?
+Does the command line confuse you?
+Do you want to learn some things and eat free (as in free pizza) pizza?
+Starting from 18:15, we&amp;rsquo;ll be delivering a lecture on the fundamentals of Linux-based operating systems, how they work and how to use them.</description>
+    </item>
+    
+    <item>
+      <title>Linux install party announcement</title>
+      <link>/news/2017/first-linux-install-party/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-linux-install-party/</guid>
+      <description>PiSoc has yet another event coming up! We&amp;rsquo;re happy to announce that we&amp;rsquo;ll be holding a Linux install party on the 16th of October! We&amp;rsquo;ll be in Horton D1.24 between 18:30 and 21:00.
+Installing Linux on your personal computer is a great way to get your feet wet with Linux usage, which is a really useful skill to have in the IT industry (something to write on a CV!). If you&amp;rsquo;re taking a CS related course, you&amp;rsquo;ve probably used it in the labs by now, and have seen some of the power of Linux.</description>
+    </item>
+    
+    <item>
+      <title>Linux install party announcement</title>
+      <link>/news/2017/march-linux-install-party/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/march-linux-install-party/</guid>
+      <description>I am pleased to announce that PiSoc will be hosting a Linux install party on the 13th March 2017. During this event we can help you install Linux on your machine. We will also be giving a presentation about Linux where we will be talking about the different Linux distributions as well as how you can customise your machine to your liking. We will be providing snacks and drinks at this event and will be a great chance to relax with your fellow students.</description>
+    </item>
+    
+  </channel>
+</rss>

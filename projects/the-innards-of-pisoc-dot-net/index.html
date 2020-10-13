@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>The innards of pisoc.net</title>
+        <style>
+
+    html body {
+        font-family: Raleway, sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: green;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="/css/main.css">
+<link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.44" />
+        
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">The innards of pisoc.net</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                      <ul class="nav navbar-nav">
+                        
+                          <li>
+                            <a href="/">home</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/news">news</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/events">events</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/projects">projects</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/minutes">minutes</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/random">random</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/contact">contact</a>
+                          </li>
+                        
+                          <li>
+                            <a href="/meetings">meetings</a>
+                          </li>
+                        
+                          <li>
+                            <a href="http://www.bradfordunisu.co.uk/groups/pi-society-pisoc/join">join</a>
+                          </li>
+                        
+                          <li>
+                            <a href="https://github.com/pisoc">github</a>
+                          </li>
+                        
+                          <li>
+                            <a id="dark-mode-toggle" class="fa fa-moon-o"></a>
+                          </li>
+                          <script src="/js/dark.js"></script>
+                      </ul>
+                    
+
+                    
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+
+
+<main>
+
+  <div class="container">
+
+    
+
+<div class="item">
+
+  <h1><a href="/projects/the-innards-of-pisoc-dot-net/">The innards of pisoc.net</a></h1>
+
+  
+
+  
+    <h5>Posted: August 18, 2018 | Author: Tom Mitchell</h5>
+    <h5>Repository: <a href="https://github.com/pisoc/pisoc.net">https://github.com/pisoc/pisoc.net</a></h5>
+  
+
+  
+
+  
+  <a href="/tags/python/"><kbd class="item-tag">python</kbd></a>
+
+  <a href="/tags/hugo/"><kbd class="item-tag">hugo</kbd></a>
+
+  <a href="/tags/flask/"><kbd class="item-tag">flask</kbd></a>
+
+  <a href="/tags/github/"><kbd class="item-tag">github</kbd></a>
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+<h1 id="tl-dr">TL;DR</h1>
+
+<p>Our <a href="http://flask.pocoo.org/">flask</a> app listens for <a href="https://developer.github.com/webhooks/">webhooks</a> triggered by pushes to the <a href="https://github.com/pisoc/pisoc.net">repository</a>. When it recieves a <a href="https://en.wikipedia.org/wiki/POST_(HTTP)">POST</a> request to the &ldquo;webhook endpoint&rdquo;, it pulls the latest versions of the repositories for the website (main and <a href="https://github.com/pisoc/pisoc-minimal">theme submodule</a>) and uses <a href="https://gohugo.io/">Hugo</a> to rebuild the static portion of the site.</p>
+
+<h1 id="in-some-more-detail">In some more detail</h1>
+
+<h2 id="python-and-flask">Python and Flask</h2>
+
+<p>Flask is a web development &ldquo;microframework&rdquo; written in Python. We&rsquo;re using this as the &ldquo;bridge&rdquo; between the two functionalities we need for this project: serving web content, and executing commands on the host machine. There are probably &ldquo;more proper&rdquo; ways to achieve the same result (some sort of <a href="http://flask.pocoo.org/docs/1.0/patterns/celery/">task queue</a> running in the background), but this approach is more simple.</p>
+
+<h3 id="serving-web-content">Serving web content</h3>
+
+<p>The first of these is achieved with a modification of <a href="https://github.com/pallets/flask/blob/master/flask/helpers.py#L681"><code>flask.helpers.send_from_directory</code></a>. The original method takes a file path and directory as an argument, and if the path is &ldquo;<a href="https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard">below</a>&rdquo; the directory, returns the file to send to the user.</p>
+
+<p>This wasn&rsquo;t quite fit for purpose because of the way Hugo generates content. Certain resources aren&rsquo;t a file - they are a directory containing a file called  <code>index.html</code>. This causes a problem for <code>send_from_directory</code> because it only sends single files, not directories, and will fail if you don&rsquo;t give it a file.</p>
+
+<p>For example, the structure for the <code>news</code> directory:</p>
+
+<pre><code class="language-none">news/
+├── election-results-2017
+│   └── index.html
+├── first-gameathon-anounce-2017
+│   └── index.html
+├── first-gameathon-update-2017
+│   └── index.html
+├── first-linux-install-party-2016
+│   └── index.html
+├── first-linux-install-party-2017
+│   └── index.html
+├── index.html
+├── index.xml
+├── page
+│   ├── 1
+│   │   └── index.html
+│   └── 2
+│       └── index.html
+├── pentesting-announcement
+│   └── index.html
+├── trip-to-cambridge
+│   └── index.html
+└── welcome-freshers-2017
+    └── index.html
+</code></pre>
+
+<p>However, the fix for this is fairly simple - instead of failing if the requested resource isn&rsquo;t a file, we perform a <a href="https://github.com/pisoc/pisoc.net/blob/6cacecf9982c82b5e5a55ed931ef4327803386a9/app.py#L33">further check</a> to see if the resource the user requested is a directory. If it is, we assume there&rsquo;s an <code>index.html</code> inside the directory and try to send that to the user (failing if our assumption was wrong).</p>
+
+<h3 id="using-python-to-execute-shell-commands">Using python to execute shell commands</h3>
+
+<p>In <code>app.py</code>, we define a function called <code>rebuild</code>. Flask registers this as the view function for the &ldquo;rebuild endpoint&rdquo;. Essentially, when we get requests sent to the URL associated with that endpoint, <code>rebuild</code> is run with the context of the request we recieved.  Once we get that far, two checks are performed. We ensure that the hook <a href="https://developer.github.com/webhooks/securing/#validating-payloads-from-github">came from GitHub</a>, and that the push was to the master branch (this is considered the &ldquo;live&rdquo; production copy of the codebase).</p>
+
+<p>If these two conditions are met, we use python&rsquo;s submodule package to do the following on the server the site is hosted on:</p>
+
+<pre><code class="language-shell">$ git submodule update --recursive --remote
+$ git pull --recurse-submodules
+$ hugo --cleanDestinationDir -s hugo/
+</code></pre>
+
+<p>This updates the &ldquo;commit pointers&rdquo; for all submodules (in our case, we only have one), checks out the appropriate commits from GitHub, and uses Hugo to rebuild our static content.</p>
+
+<h2 id="hugo">Hugo</h2>
+
+<p>All of the &ldquo;content&rdquo; for the site (HTML, etc.) is generated by Hugo. Hugo is a static site generator that uses <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">markdown</a> files (the content of the site) and a theme (how to style that markdown) to generate static webapges. This static content isn&rsquo;t stored on GitHub, because it&rsquo;d be redundant to keep it in more than one place (the server) if we have everything we need to recreate it.</p>
+
+<p>All of the site&rsquo;s markdown is under the <code>hugo/content/</code> directory. News posts are under <code>hugo/content/news</code>, and the project writeups (like this article) are under <code>hugo/content/projects</code>. Likewise, the theme we get from the pisoc-theme repository is stored under <code>hugo/theme</code>.</p>
+</div>
+
+    
+    
+
+    
+
+    
+
+  </div>
+
+</main>
+
+
+
+        <footer>
+
+            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and our twist on <a href="https://github.com/calintat/minimal">minimal</a></p>
+
+        </footer>
+
+    </body>
+
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random on Pi Society</title>
+    <link>/random/</link>
+    <description>Recent content in Random on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/random/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Gentoo Drinking Game</title>
+      <link>/random/2019/the-gentoo-drinking-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/random/2019/the-gentoo-drinking-game/</guid>
+      <description>Step 1 Begin by letting your friends to vote on what distro you should install.
+If they vote for Gentoo, you are now entitled to play the Gentoo Drinking Game.
+Note: the two &amp;ldquo;other&amp;rdquo; votes were for Windows XP SP3 and Windows Vista.
+Step 2 Gather some friends and your laptop. Go to the pub.
+Step 3 Install Gentoo. Follow these rules:
+Take a drink&amp;hellip;  Every 5 minutes Every time you fail to do something on the first try Every time you have to Google something If you ask the bar staff if they know how to install Gentoo  Finish your drink&amp;hellip;  If you mess the install up so badly you have to start again If you give up  Continue playing until&amp;hellip;  Gentoo has been installed You are far too inebriated to continue The pub wifi proves too slow to download the Stage 3 tarball and everyone gets bored of waiting  Some quotes from our attempt  This is a bad idea and will go horribly ~ Alex</description>
+    </item>
+    
+  </channel>
+</rss>

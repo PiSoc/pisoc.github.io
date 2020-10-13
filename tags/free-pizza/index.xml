@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Pizza on Pi Society</title>
+    <link>/tags/free-pizza/</link>
+    <description>Recent content in Free Pizza on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/free-pizza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux install party announcement</title>
+      <link>/news/2017/first-linux-install-party/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-linux-install-party/</guid>
+      <description>PiSoc has yet another event coming up! We&amp;rsquo;re happy to announce that we&amp;rsquo;ll be holding a Linux install party on the 16th of October! We&amp;rsquo;ll be in Horton D1.24 between 18:30 and 21:00.
+Installing Linux on your personal computer is a great way to get your feet wet with Linux usage, which is a really useful skill to have in the IT industry (something to write on a CV!). If you&amp;rsquo;re taking a CS related course, you&amp;rsquo;ve probably used it in the labs by now, and have seen some of the power of Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

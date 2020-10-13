@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>External on Pi Society</title>
+    <link>/tags/external/</link>
+    <description>Recent content in External on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/external/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Speaker: Tom Mitchell</title>
+      <link>/events/2020/pisoc-presents-git/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2020/pisoc-presents-git/</guid>
+      <description> Event due near the end of October - watch this space! </description>
+    </item>
+    
+    <item>
+      <title>External Speaker: Thomas Mangin</title>
+      <link>/news/2019/thomas-mangin/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/thomas-mangin/</guid>
+      <description>Ever wondered how the internet works? What sort of technology goes into connecting the world?
+Where did it all come from, and who invented it?
+And just how exactly do all of those cat pictures end up online?
+PiSoc is very proud to introduce our first external speaker of the year - Thomas Mangin. Thomas is the Operational and Technical Director at Exa Networks, and has been since he co-founded the company in 2003.</description>
+    </item>
+    
+  </channel>
+</rss>

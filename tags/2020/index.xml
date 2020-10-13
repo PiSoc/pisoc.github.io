@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on Pi Society</title>
+    <link>/tags/2020/</link>
+    <description>Recent content in 2020 on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Speaker: Tom Mitchell</title>
+      <link>/events/2020/pisoc-presents-git/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2020/pisoc-presents-git/</guid>
+      <description> Event due near the end of October - watch this space! </description>
+    </item>
+    
+    <item>
+      <title>Welcome, freshers</title>
+      <link>/news/2020/welcome-freshers-2020/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/welcome-freshers-2020/</guid>
+      <description>Hi there, freshers of 2020! If you&amp;rsquo;ve not already been introduced, we&amp;rsquo;re Pi Society, but you can call us PiSoc. Our focus is on computer science (and occasionally maths and electrical engineering). We&amp;rsquo;re a motley crew of hackers, makers, technologists, and nerds.
+We&amp;rsquo;ve got a load of interesting events on the horizon. Part of the roadmap for this year is as follows:
+ A trip to an as-of-yet-undecided destination to be chosen by you, the members of PiSoc Society projects - the university has greenlit us building them a magic mirror for public display CTF(Catch The Flag), a hacking Competitions where your objective is to find clues and complete the challenge Linux install parties - we&amp;rsquo;ll help you Linux-ify your laptop Gameathons - play video games Weekly meetings and socials We mainly use Discord but we are also planning on using Youtube and Twitch so make sure you are following us !</description>
+    </item>
+    
+  </channel>
+</rss>

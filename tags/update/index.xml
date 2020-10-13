@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on Pi Society</title>
+    <link>/tags/update/</link>
+    <description>Recent content in Update on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gameathon update</title>
+      <link>/news/2017/first-gameathon-update/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/first-gameathon-update/</guid>
+      <description>An upate on the gameathon - we will indeed be having drinks and snacks for free at the event.
+We should (all things going to plan) also have two Raspberry Pis to give away as prizes. One will go to the winner of a free-for-all at the begining of the gameathon (so get there on time to participate!), and the other will go to the winner of a tournament we will run over the course of the event.</description>
+    </item>
+    
+  </channel>
+</rss>

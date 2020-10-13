@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recap on Pi Society</title>
+    <link>/tags/recap/</link>
+    <description>Recent content in Recap on Pi Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/recap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux 101 Recap</title>
+      <link>/news/2019/linux-101-recap/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/linux-101-recap/</guid>
+      <description>Penguin time was fun! Last week, we had a special PiSoc weekly meeting - our very first PiSoc Presents! Our Social Exec, Tom Mitchell, gave a lecture on &amp;ldquo;an introduction to Linux&amp;rdquo;. The talk covered what we mean by &amp;ldquo;Linux as a kernel&amp;rdquo; and &amp;ldquo;as an OS&amp;rdquo;, and the &amp;ldquo;what&amp;rdquo;, &amp;ldquo;why&amp;rdquo; and &amp;ldquo;how&amp;rdquo; of Linux-based operating systems.
+Incase you missed it, you can view/download the slides here.
+We hope you all learned something and enjoyed the free pizza!</description>
+    </item>
+    
+    <item>
+      <title>Freshers&#39; Week 2019 recap</title>
+      <link>/news/2019/freshers-recap/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2019/freshers-recap/</guid>
+      <description>It&amp;rsquo;s been a busy week. We&amp;rsquo;ve had a awful lot of fun running events for the past week. If you missed out (and we&amp;rsquo;re really sorry if you did!), here&amp;rsquo;s a brief recap of what went on.
+Tuesday: Computer Science Induction talks You may have seen our president, Chris Delee, give an &amp;ldquo;intro to PiSoc&amp;rdquo; talk at the induction day event. It covered who we are, what we do, and where you can find us if you want to get involved.</description>
+    </item>
+    
+  </channel>
+</rss>
